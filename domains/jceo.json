@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "jceo",
+    "email": "jceodev@gmail.com"
+  },
+  "record": {
+    "NS": [
+      "dante.ns.cloudflare.com",
+      "mia.ns.cloudflare.com"
+    ]
+  }
+}
